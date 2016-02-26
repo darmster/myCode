@@ -1,0 +1,6 @@
+John Smith Jr. 45 25.50
+Nancy S. Brown Smith 40 36.75
+John Doe III -56 40
+Bad Input 60 -23.45
+Bad Hours 70 45
+Bad Pay Rate 45 500

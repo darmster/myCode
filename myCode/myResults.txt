@@ -1,0 +1,13 @@
+Name                                             ID#         Units   GPA 
+--------------------------------------------------------------------------------
+Smith, John                                     12345678       13    2.92   
+Brown Jones, Nancy                              22345678       16    3.50   
+Adamson Jr., Jerry                              99887766       16    3.50   
+Shore, John                                     12345668       17    2.94   
+Jonsen, Lori                                    22445678       15    2.60   
+Blackston Jr., Jerry                            99887666       12    3.25   
+Partison, John                                  12346678       9     2.78   
+Brownson, Adam                                  22345688       13    2.62   
+Johnson, Jerry                                  99877766       16    3.06   
+--------------------------------------------------------------------------------
+The average GPA for all entered grades is 3.04
