@@ -1,0 +1,29 @@
+### Order Parts ###
+TicketId= 1
+ServerId= 2
+Customer: ee
+Memory: 33
+HD: 3
+OS: OS
+MainIp: 33
+Location: ed
+SwitchPort: 3
+DracPort: 4
+DracIp: 4
+Rebooter: 4
+Notes: 4
+### Order Parts ###### Order Parts ###
+TicketId= df
+ServerId= df
+Customer: d
+Memory: sd
+HD: df
+OS: fd
+MainIp: df
+Location: f
+SwitchPort: df
+DracPort: f
+DracIp: f
+Rebooter: f
+Notes: f
+### Order Parts ###
